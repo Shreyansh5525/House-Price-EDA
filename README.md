@@ -95,8 +95,8 @@ house_price_model.pkl
 
 **Shreyansh Kumar**  
 .
-### Author
-Shreyansh Kumar
+
+
 
 
 
