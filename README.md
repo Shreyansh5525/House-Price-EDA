@@ -86,8 +86,17 @@ The trained model is saved as:
 
 ```bash
 house_price_model.pkl
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Shreyansh Kumar**  
 .
 ### Author
 Shreyansh Kumar
+
 
 
